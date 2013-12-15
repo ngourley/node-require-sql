@@ -14,5 +14,10 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/ngourley/node-require-sql/issues"
+  },
+  "devDependencies": {
+    "underscore": "~1.5.2",
+    "grunt": "~0.4.2",
+    "grunt-contrib-jshint": "~0.7.2"
   }
 }
